@@ -1,4 +1,4 @@
-# Aurevix 
+# Aurevix
 ### AI-Powered Multimodal Gesture & Voice Control Interaction Platform
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
