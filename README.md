@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 ---
-
+## Project Initiated: January 10, 2026
 ##  Overview
 
 **Aurevix** is an enterprise-grade, accessibility-first multimodal desktop interaction platform that replaces physical computer input peripherals (mouse and keyboard) with contactless **computer vision hand tracking** and **natural voice intelligence**.
