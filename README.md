@@ -1,6 +1,10 @@
 # Aurevix
 ### AI-Powered Multimodal Gesture & Voice Control Interaction Platform
 
+<div align="center">
+
+  <img src="img/mainlogo.png" alt="Loop of Legends Logo" width="220"/>
+
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![GUI Framework](https://img.shields.io/badge/GUI-PyQt5-green.svg?logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
 [![Computer Vision](https://img.shields.io/badge/Vision-MediaPipe%20%7C%20OpenCV-orange.svg?logo=opencv&logoColor=white)](https://developers.google.com/mediapipe)
@@ -8,6 +12,7 @@
 [![UN SDG](https://img.shields.io/badge/UN%20SDG-SDG%2010%20(Reduced%20Inequalities)-E5243B.svg)](https://sdgs.un.org/goals/goal10)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
+</div>
 ---
 ## Project Initiated: December 26, 2025
 ##  Overview
