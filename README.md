@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="img/mainlogo.png" alt="Loop of Legends Logo" width="220"/>
+  <img src="img/mainlogo.png" alt="Aurevix" width="220"/>
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![GUI Framework](https://img.shields.io/badge/GUI-PyQt5-green.svg?logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
